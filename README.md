@@ -24,7 +24,7 @@
 
 ### 🛠️ Technical Stack & Core Expertise
 
-Our platform is built with a modern and robust technology stack to ensure performance, security, and scalability. We also specialize in the following areas:
+We specialize in and provide content on the following areas, from foundational concepts to advanced applications.
 
 | Category | Description | Badges |
 | :--- | :--- | :--- |
