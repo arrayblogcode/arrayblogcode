@@ -1,5 +1,4 @@
-# Array Blog [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/your-github-username/arrayblog?style=social)](https://github.com/your-github-username/arrayblog/stargazers)
-
+# Array Blog 
 ### Your Guide to the Future of Technology
 
 **Array Blog** is a dynamic platform dedicated to demystifying and exploring the latest trends in technology. We provide high-quality, in-depth articles, tutorials, and guides to help developers, students, and tech enthusiasts build their skills and stay ahead in the ever-evolving digital landscape. Our mission is to transform complex technical concepts into accessible and engaging content.
@@ -45,22 +44,16 @@ We love to collaborate with fellow developers! If you're interested in helping w
 
 ---
 
-### 📄 License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
----
 
 ### 📞 Contact
 
 For any questions, suggestions, or support, feel free to reach out.
 
 * **Website:** [https://arrayblog.com](https://arrayblog.com)
- [YouTube Channel](https://www.youtube.com/@ArrayBlog)
+* **YouTube:** [https://www.youtube.com/@ArrayBlog](https://www.youtube.com/@ArrayBlog)
 * **Email:** `contact@arrayblog.com`
-* **LinkedIn:** [LinkedIn: array-blog](https://www.linkedin.com/in/array-blog-000203377/)
+* **LinkedIn:** [Array Blog](https://www.linkedin.com/in/array-blog-000203377/)
 * **Twitter:** [@array_blog](https://x.com/array_blog)
-
 
 ---
 
