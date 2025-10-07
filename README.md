@@ -56,9 +56,23 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 For any questions, suggestions, or support, feel free to reach out.
 
 * **Website:** [https://arrayblog.com](https://arrayblog.com)
+ [YouTube Channel](https://www.youtube.com/@ArrayBlog)
 * **Email:** `contact@arrayblog.com`
 * **LinkedIn:** [LinkedIn: array-blog](https://www.linkedin.com/in/array-blog-000203377/)
 * **Twitter:** [@array_blog](https://x.com/array_blog)
+
+
+---
+
+### 🌟 Featured Projects
+
+Here are some of our most popular open-source tutorials and projects:
+
+| Project | Description | Link |
+|----------|--------------|------|
+| **C HTTP Server** | Learn how to build a simple HTTP server in C. | [View Repo](https://github.com/arrayblogcode/C) |
+---
+
 
 <p align="center">
   ⭐️ &nbsp; Star this repo to show your support! &nbsp; ⭐️
