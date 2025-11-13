@@ -64,10 +64,12 @@ Here are some of our most popular open-source tutorials and projects:
 | Project | Description | Link |
 |----------|--------------|------|
 | **C Tutorial** | Welcome to the C Programming Repository! | [View Repo](https://github.com/arrayblogcode/C) |
-| **Python Tutorial** | Welcome to the Python Tutorial Codes repository! | [View Repo]((https://github.com/arrayblogcode/python-tutorial-codes.git)) |
-| **NumPy Tutorial** | Welcome to the NumPy Tutorial Codes repository! | [View Repo]((https://github.com/arrayblogcode/numpy-tutorial-codes.git)) |
-| **Pandas Tutorial** | Welcome to the Pandas Tutorial Codes repository! | [View Repo]((https://github.com/arrayblogcode/pandas-tutorial-codes.git)) |
-| **Matplotlib Tutorial** | Welcome to the Matplotlib Tutorial Codes repository! | [View Repo](((https://github.com/arrayblogcode/matplotlib-tutorial-codes.git))) |
+| **C Projects Hub** | A complete collection of C language programs and projects | [View Repo](https://github.com/arrayblogcode/c-projects-hub.git) |
+| **Python Tutorial** | Welcome to the Python Tutorial Codes repository! | [View Repo](https://github.com/arrayblogcode/python-tutorial-codes.git) |
+| **NumPy Tutorial** | Welcome to the NumPy Tutorial Codes repository! | [View Repo](https://github.com/arrayblogcode/numpy-tutorial-codes.git) |
+| **Pandas Tutorial** | Welcome to the Pandas Tutorial Codes repository! | [View Repo](https://github.com/arrayblogcode/pandas-tutorial-codes.git) |
+| **Matplotlib Tutorial** | Welcome to the Matplotlib Tutorial Codes repository! | [View Repo](https://github.com/arrayblogcode/matplotlib-tutorial-codes.git) |
+
 ---
 
 
