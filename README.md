@@ -65,6 +65,7 @@ Here are some of our most popular open-source tutorials and projects:
 |----------|--------------|------|
 | **C Tutorial** | Welcome to the C Programming Repository! | [View Repo](https://github.com/arrayblogcode/C) |
 | **C Projects Hub** | A complete collection of C language programs and projects | [View Repo](https://github.com/arrayblogcode/c-projects-hub.git) |
+| **Python Project Hub** |  A complete collection of Python language programs and projects | [View Repo](https://github.com/arrayblogcode/python-projects-hub.git) |
 | **Python Tutorial** | Welcome to the Python Tutorial Codes repository! | [View Repo](https://github.com/arrayblogcode/python-tutorial-codes.git) |
 | **NumPy Tutorial** | Welcome to the NumPy Tutorial Codes repository! | [View Repo](https://github.com/arrayblogcode/numpy-tutorial-codes.git) |
 | **Pandas Tutorial** | Welcome to the Pandas Tutorial Codes repository! | [View Repo](https://github.com/arrayblogcode/pandas-tutorial-codes.git) |
