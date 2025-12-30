@@ -1,4 +1,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arrayblogcode.arrayblogcode)
+<a href="https://github.com/arrayblogcode?tab=followers">
+    <img src="https://img.shields.io/github/followers/arrayblogcode?label=Followers&style=social" alt="followers-count">
+</a>
+
 # Array Blog 
 ### Your Guide to the Future of Technology
 
