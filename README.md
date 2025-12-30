@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=arrayblogcode.arrayblogcode)
 # Array Blog 
 ### Your Guide to the Future of Technology
 
@@ -77,7 +78,6 @@ Here are some of our most popular open-source tutorials and projects:
 <p align="center">
   ⭐️ &nbsp; Star this repo to show your support! &nbsp; ⭐️
 </p>
-
 
 
 <picture>
