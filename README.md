@@ -77,3 +77,10 @@ Here are some of our most popular open-source tutorials and projects:
 <p align="center">
   ⭐️ &nbsp; Star this repo to show your support! &nbsp; ⭐️
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arrayblogcode/arrayblogcode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arrayblogcode/arrayblogcode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arrayblogcode/arrayblogcode/output/github-contribution-grid-snake.svg">
+</picture>
