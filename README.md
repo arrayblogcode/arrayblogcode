@@ -78,6 +78,21 @@ Here are some of our most popular open-source tutorials and projects:
   ⭐️ &nbsp; Star this repo to show your support! &nbsp; ⭐️
 </p>
 
+### 📊 My GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arrayblogcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrayblogcode&layout=compact&theme=radical"/>
+</a>
+
+</div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arrayblogcode/arrayblogcode/output/github-contribution-grid-snake-dark.svg">
