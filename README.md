@@ -3,13 +3,15 @@
     <img src="https://img.shields.io/github/followers/arrayblogcode?label=Followers&style=social" alt="followers-count">
 </a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+ArrayBLOG;Building+C+HTTP+Servers;Exploring+Neural+Networks)](https://git.io/typing-svg)
+
+
 # Array Blog 
 ### Your Guide to the Future of Technology
 
 **Array Blog** is a dynamic platform dedicated to demystifying and exploring the latest trends in technology. We provide high-quality, in-depth articles, tutorials, and guides to help developers, students, and tech enthusiasts build their skills and stay ahead in the ever-evolving digital landscape. Our mission is to transform complex technical concepts into accessible and engaging content.
 
 ---
-
 ### 🚀 What We Cover
 
 * **Web Development:** From foundational HTML/CSS/JS to modern frameworks like React, Vue, and Angular.
@@ -89,3 +91,14 @@ Here are some of our most popular open-source tutorials and projects:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arrayblogcode/arrayblogcode/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arrayblogcode/arrayblogcode/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arrayblogcode&theme=react-dark)
+
+
+
+### 📈 My GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arrayblogcode&theme=radical" alt="Streak" />
+</p>
